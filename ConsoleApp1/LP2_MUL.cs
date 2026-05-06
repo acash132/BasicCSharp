@@ -12,10 +12,10 @@
 //        {
 //            Console.WriteLine("Enter the Range to calculate Multiplication");
 //            int n = Convert.ToInt32(Console.ReadLine());
-//            int mul= 1;
+//            int mul = 1;
 //            for (int i = 1; i <= n; i++)
 //            {
-//                mul= mul * i;
+//                mul = mul * i;
 
 //            }
 //            Console.WriteLine("The Multiplication of the  Numbers is " + mul);
